@@ -3,3 +3,5 @@ allure-results
 logs
 screenshot
 target
+.DS_Store
+src/test/.DS_Store
